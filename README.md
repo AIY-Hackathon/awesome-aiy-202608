@@ -3,7 +3,7 @@
 > 2026 年 8 月 4–6 日，青年创造者们用 36 小时，把大厂真实命题做成了可体验的 AI 产品。
 > 以下作品经组委会技术团队逐一核对 GitHub 提交、审阅内容后收录展示。**每件作品版权归其作者所有**，本页仅作展示与归档。
 
-📍 主办：香港中文大学（深圳） · AIRS　｜　命题企业：华大 · Coze · MiniMax · BrainCo · 金稳院 · Workbuddy
+📍 主办：香港中文大学（深圳） · AIRS · 深圳人才集团　｜　命题企业：华大 · Coze · MiniMax · 深开鸿 · 金稳院 · Workbuddy
 🏷️ 全部作品统一标签：[`aiy-hackathon-202608`](https://github.com/topics/aiy-hackathon-202608)
 
 <p align="center">
