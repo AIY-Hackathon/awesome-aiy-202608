@@ -13,6 +13,9 @@
   <img alt="初中组" src="https://img.shields.io/badge/初中组_MD-4_支-2B6CB0?style=for-the-badge">
 </p>
 
+> ❓ **没在下面找到自己的作品？或者信息有误？**
+> 请填写 👉 [《作品收录问题反馈与补交登记》](https://wj.qq.com/s2/27605907/sbbv) 表单，组委会会尽快核实处理——不管是链接/简介需要更正、怀疑漏收录，还是队伍还没来得及提交 GitHub，都可以在这里登记。
+
 ---
 
 ## 🥇 获奖作品
@@ -60,3 +63,7 @@
 | `MD0027` | — | **AI 智能声伴** | 面向老龄化人群的语音陪伴，支持多语种多方言转换 | — | [代码](https://github.com/AIY-Hackathon/aiy202608--md0027---) |
 | `MD0037` | Team Falcons | **海豚云 · DolphinCloud** | 教学、成长评价、激励与自治共处一个可信空间的校园协作 AI 平台 | Coze · 校园生活 AI 助手 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0037-team-falcons) |
 | `MD0087` | team-truffle | **健康饮食管理网站** | 基于当日状态个性化推荐健康食谱，面向关注健康饮食与健身目标的人群 | Coze · 智能体方向 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0087-team-truffle01) · [🌐 在线体验](https://58nzqrsnkn.coze.site) |
+
+---
+
+📮 名单信息有误、没找到自己队伍、或者还没提交 GitHub？填 👉 [《作品收录问题反馈与补交登记》](https://wj.qq.com/s2/27605907/sbbv)，组委会会尽快核实处理。
