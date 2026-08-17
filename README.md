@@ -60,30 +60,3 @@
 | `MD0027` | — | **AI 智能声伴** | 面向老龄化人群的语音陪伴，支持多语种多方言转换 | — | [代码](https://github.com/AIY-Hackathon/aiy202608--md0027---) |
 | `MD0037` | Team Falcons | **海豚云 · DolphinCloud** | 教学、成长评价、激励与自治共处一个可信空间的校园协作 AI 平台 | Coze · 校园生活 AI 助手 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0037-team-falcons) |
 | `MD0087` | team-truffle | **健康饮食管理网站** | 基于当日状态个性化推荐健康食谱，面向关注健康饮食与健身目标的人群 | Coze · 智能体方向 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0087-team-truffle01) · [🌐 在线体验](https://58nzqrsnkn.coze.site) |
-
----
-
-## 关于 AIY 黑客松
-
-AIY（AI for Youth）是链接全球领军 AI 产业、头部企业与学术机构的 AI 原生青年成长平台。
-👉 想参赛或布置企业命题：【官方咨询号 / 合作邮箱】
-
----
-
-<details>
-<summary>📋 组委会录入模板（获奖名单公布后使用）</summary>
-
-```markdown
-### 《【项目名】》 — 【队名】
-> 【一句话简介】
-
-| | |
-|---|---|
-| 🏅 奖项 / 徽章 | 【金奖 · Coze 能力徽章·卓越】 |
-| 🧩 命题 / 赛道 | 【Coze · 智能体方向】 |
-| 👤 作者 | 【张三、李四】 |
-| 🔗 代码仓库 | 【https://github.com/张三/aiy202608-teamname】 |
-| 🌐 在线体验 | 【https://xxx.workbuddy.app（有就填，没有可删）】 |
-```
-
-</details>
