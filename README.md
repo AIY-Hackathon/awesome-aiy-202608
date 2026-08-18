@@ -59,7 +59,7 @@
 
 | 团队编号 | 队名 | 作品 | 一句话简介 | 赛道 | 仓库 |
 |:---:|---|---|---|---|:---:|
-| `MD0025` | — | *（README 待补全）* | 独立前后端工程（backend / frontend / prompt 三目录） | — | [代码](https://github.com/AIY-Hackathon/aiy202608-md0025-shensheng) |
+| `MD0025` | — | **司南 Auster** | 反问三个关键问题，帮学生把要背的内容自动排成 7 天复习计划，配套挖空卡片自测 | — | [代码](https://github.com/AIY-Hackathon/aiy202608-md0025-shensheng) |
 | `MD0027` | — | **AI 智能声伴** | 面向老龄化人群的语音陪伴，支持多语种多方言转换 | — | [代码](https://github.com/AIY-Hackathon/aiy202608--md0027---) |
 | `MD0037` | Team Falcons | **海豚云 · DolphinCloud** | 教学、成长评价、激励与自治共处一个可信空间的校园协作 AI 平台 | Coze · 校园生活 AI 助手 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0037-team-falcons) |
 | `MD0087` | team-truffle | **健康饮食管理网站** | 基于当日状态个性化推荐健康食谱，面向关注健康饮食与健身目标的人群 | Coze · 智能体方向 | [代码](https://github.com/AIY-Hackathon/aiy202608-md0087-team-truffle01) · [🌐 在线体验](https://58nzqrsnkn.coze.site) |
